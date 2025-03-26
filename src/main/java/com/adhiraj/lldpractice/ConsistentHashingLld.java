@@ -1,4 +1,4 @@
-package com.adhiraj.lldprep;
+package com.adhiraj.lldpractice;
 
 public class ConsistentHashingLld {
 }

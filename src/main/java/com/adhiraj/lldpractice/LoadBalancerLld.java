@@ -1,4 +1,4 @@
-package com.adhiraj.lldprep;
+package com.adhiraj.lldpractice;
 
 import lombok.AllArgsConstructor;
 

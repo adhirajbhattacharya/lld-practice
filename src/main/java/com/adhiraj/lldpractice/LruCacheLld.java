@@ -1,4 +1,4 @@
-package com.adhiraj.lldprep;
+package com.adhiraj.lldpractice;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
